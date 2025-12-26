@@ -1,0 +1,126 @@
+[0, 3]
+*Alles hat ein Ende, nur die Wurst hat zwei Sprichw.
+Alles geht irgendwann zu Ende, nichts dauert ewig.
+_ Die Feier war schön, aber jetzt ist Schluss. Alles hat
+ein Ende, nur die Wurst hat zwei.
+**************************************************
+[4, 7]
+*Da liegt der Hund begraben Redew. Das ist der eigentliche
+Grund oder das wahre Problem. _ Er hat kein Geld,
+da liegt der Hund begraben.
+**************************************************
+[8, 11]
+*Das ist nicht mein Bier Redew. Das geht mich nichts an,
+das ist nicht meine Angelegenheit. _ Was die machen,
+ist nicht mein Bier.
+**************************************************
+[12, 15]
+*Den Nagel auf den Kopf treffen Redew. Genau das Richtige
+sagen oder tun, den Kern der Sache treffen.
+_ Mit deiner Analyse hast du den Nagel auf den Kopf getroffen.
+**************************************************
+[16, 19]
+*Die Daumen drücken Redew. Jemandem Glück wünschen.
+_ Morgen habe ich meine Prüfung. Drück mir die Daumen!
+**************************************************
+[20, 23]
+*Ein Brett vor dem Kopf haben Redew. Etwas Offensichtliches
+nicht verstehen, begriffsstutzig sein. _ Warum kapierst
+du das nicht? Du hast wohl ein Brett vor dem Kopf.
+**************************************************
+[24, 27]
+*Einen Kater haben Redew. Nach übermäßigem Alkoholkonsum
+Kopfschmerzen und Übelkeit haben. _ Nach der Party gestern
+habe ich einen furchtbaren Kater.
+**************************************************
+[28, 31]
+*Es ist noch kein Meister vom Himmel gefallen Sprichw.
+Niemand kann alles sofort perfekt, Übung macht den Meister.
+_ Sei geduldig mit dir. Es ist noch kein Meister vom
+Himmel gefallen.
+**************************************************
+[32, 35]
+*Ich verstehe nur Bahnhof Redew. Ich verstehe überhaupt
+nichts, das ist mir völlig unverständlich. _ Er redet
+über Quantenphysik, ich verstehe nur Bahnhof.
+**************************************************
+[36, 39]
+*Jemandem auf den Keks gehen Redew. Jemanden nerven
+oder belästigen. _ Hör auf damit, du gehst mir
+auf den Keks!
+**************************************************
+[40, 43]
+*Jetzt mal Butter bei die Fische Redew. Jetzt komm
+zur Sache, rede nicht um den heißen Brei herum.
+_ Genug geredet, jetzt mal Butter bei die Fische!
+**************************************************
+[44, 47]
+*Klappe zu, Affe tot Redew. Die Sache ist erledigt,
+abgehakt, Ende der Diskussion. _ Wir haben unterschrieben,
+Klappe zu, Affe tot.
+**************************************************
+[48, 51]
+*Leben wie Gott in Frankreich Redew. Ein luxuriöses,
+sorgenfreies Leben führen. _ Im Urlaub haben wir
+gelebt wie Gott in Frankreich.
+**************************************************
+[52, 55]
+*Man soll den Tag nicht vor dem Abend loben Sprichw.
+Man soll nicht zu früh urteilen oder sich freuen.
+_ Warte ab, man soll den Tag nicht vor dem Abend loben.
+**************************************************
+[56, 59]
+*Mit jemandem ist nicht gut Kirschen essen Redew.
+Mit jemandem ist schwer auszukommen, er ist unfreundlich.
+_ Sei vorsichtig, mit dem Chef ist nicht gut Kirschen essen.
+**************************************************
+[60, 63]
+*Morgenstund hat Gold im Mund Sprichw. Frühes Aufstehen
+bringt Vorteile und Erfolg. _ Ich stehe immer um fünf auf.
+Morgenstund hat Gold im Mund.
+**************************************************
+[64, 67]
+*Nur Bahnhof verstehen Redew. Nichts verstehen, keinen
+Sinn erkennen können. _ Der Vortrag war so kompliziert,
+ich habe nur Bahnhof verstanden.
+**************************************************
+[68, 71]
+*Schwein haben Redew. Großes Glück haben. _ Du hast
+gerade noch den letzten Zug erwischt, da hast du
+aber Schwein gehabt!
+**************************************************
+[72, 75]
+*Tomaten auf den Augen haben Redew. Etwas Offensichtliches
+nicht sehen. _ Das Schild war riesig! Hast du Tomaten
+auf den Augen?
+**************************************************
+[76, 79]
+*Um den heißen Brei herumreden Redew. Nicht direkt
+sagen was man meint, das Thema vermeiden. _ Sag mir
+die Wahrheit und rede nicht um den heißen Brei herum.
+**************************************************
+[80, 83]
+*Unter einer Decke stecken Redew. Heimlich zusammenarbeiten,
+gemeinsame Sache machen. _ Die beiden stecken unter
+einer Decke, das ist klar.
+**************************************************
+[84, 87]
+*Wo sich Fuchs und Hase gute Nacht sagen Redew. Ein sehr
+abgelegener, einsamer Ort. _ Er wohnt draußen auf dem Land,
+wo sich Fuchs und Hase gute Nacht sagen.
+**************************************************
+[88, 91]
+*Zwei Fliegen mit einer Klappe schlagen Redew. Mit einer
+Handlung zwei Ziele erreichen. _ Ich besuche Oma und hole
+das Paket ab, so schlage ich zwei Fliegen mit einer Klappe.
+**************************************************
+[92, 95]
+*Das geht auf keine Kuhhaut Redew. Das ist unglaublich,
+unfassbar, nicht zu fassen. _ Was er sich erlaubt hat,
+das geht auf keine Kuhhaut.
+**************************************************
+[96, 99]
+*Jemandem einen Bären aufbinden Redew. Jemandem eine
+Lüge erzählen, jemanden täuschen. _ Er hat dir einen
+Bären aufgebunden, das stimmt alles nicht.
+**************************************************

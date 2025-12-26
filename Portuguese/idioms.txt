@@ -1,0 +1,123 @@
+[0, 3]
+*Água mole em pedra dura, tanto bate até que fura Prov.
+A persistência vence qualquer obstáculo. _ Continue tentando,
+água mole em pedra dura, tanto bate até que fura.
+**************************************************
+[4, 7]
+*Andar com a pulga atrás da orelha Expr. Estar desconfiado,
+suspeitar de algo. _ Ele anda com a pulga atrás da orelha
+desde que soube da reunião secreta.
+**************************************************
+[8, 11]
+*Bater as botas Expr. Morrer. _ O velho bateu as botas
+na semana passada.
+**************************************************
+[12, 15]
+*Casa de ferreiro, espeto de pau Prov. Quem trabalha
+com algo não o aplica para si mesmo. _ Ele é médico mas
+nunca vai ao médico. Casa de ferreiro, espeto de pau.
+**************************************************
+[16, 19]
+*Chover no molhado Expr. Fazer algo desnecessário, repetir
+o que já foi feito ou dito. _ Já expliquei isso, não vou
+ficar chovendo no molhado.
+**************************************************
+[20, 23]
+*Dar com os burros n'água Expr. Fracassar, não conseguir
+o que se pretendia. _ Tentei convencê-lo mas dei com
+os burros n'água.
+**************************************************
+[24, 27]
+*De grão em grão a galinha enche o papo Prov. Pouco a pouco
+se consegue muito. _ Economize um pouco cada mês, de grão
+em grão a galinha enche o papo.
+**************************************************
+[28, 31]
+*Descascar o abacaxi Expr. Resolver um problema difícil.
+_ Agora você vai ter que descascar esse abacaxi sozinho.
+**************************************************
+[32, 35]
+*Em terra de cego, quem tem um olho é rei Prov. Entre
+os incapazes, o menos incapaz se destaca. _ Ele não é
+tão bom, mas em terra de cego, quem tem um olho é rei.
+**************************************************
+[36, 39]
+*Engolir sapos Expr. Aceitar ofensas ou situações
+desagradáveis sem reagir. _ No trabalho tenho que
+engolir muitos sapos.
+**************************************************
+[40, 43]
+*Estar com a corda no pescoço Expr. Estar em situação
+muito difícil, sem saída. _ Com as dívidas, ele está
+com a corda no pescoço.
+**************************************************
+[44, 47]
+*Fazer tempestade em copo d'água Expr. Exagerar um
+problema pequeno. _ Calma, não é tão grave. Não faça
+tempestade em copo d'água.
+**************************************************
+[48, 51]
+*Filho de peixe, peixinho é Prov. Os filhos costumam
+ser parecidos com os pais. _ Ele é teimoso como o pai.
+Filho de peixe, peixinho é.
+**************************************************
+[52, 55]
+*Mais vale um pássaro na mão do que dois voando Prov.
+É melhor ter algo certo do que arriscar por algo incerto.
+_ Aceite essa oferta, mais vale um pássaro na mão
+do que dois voando.
+**************************************************
+[56, 59]
+*Matar dois coelhos com uma cajadada só Expr. Resolver
+dois problemas com uma única ação. _ Fui ao banco e
+ao mercado no mesmo trajeto, matei dois coelhos com
+uma cajadada só.
+**************************************************
+[60, 63]
+*Não há rosas sem espinhos Prov. Tudo que é bom tem
+seu lado ruim. _ O trabalho paga bem mas é estressante.
+Não há rosas sem espinhos.
+**************************************************
+[64, 67]
+*Pagar o pato Expr. Sofrer as consequências de algo
+que não fez. _ Não fiz nada errado mas acabei pagando o pato.
+**************************************************
+[68, 71]
+*Para bom entendedor, meia palavra basta Prov. Quem é
+inteligente entende com pouca explicação. _ Não preciso
+explicar tudo, para bom entendedor, meia palavra basta.
+**************************************************
+[72, 75]
+*Pisar em ovos Expr. Agir com muito cuidado em situação
+delicada. _ Quando falo com ele sobre isso, piso em ovos.
+**************************************************
+[76, 79]
+*Pôr a mão no fogo Expr. Confiar completamente em alguém.
+_ Conheço ele há anos, ponho a mão no fogo por ele.
+**************************************************
+[80, 83]
+*Quando um não quer, dois não brigam Prov. Conflitos
+precisam de duas partes. _ Ele provocou mas não reagi.
+Quando um não quer, dois não brigam.
+**************************************************
+[84, 87]
+*Quem com ferro fere, com ferro será ferido Prov.
+Quem faz mal receberá o mesmo tratamento. _ Ele traiu
+o amigo e foi traído depois. Quem com ferro fere,
+com ferro será ferido.
+**************************************************
+[88, 91]
+*Saudade Expr. Sentimento de falta, nostalgia profunda
+por alguém ou algo ausente. _ Tenho muita saudade da minha
+avó. É uma palavra que só existe em português.
+**************************************************
+[92, 95]
+*Tirar o cavalo da chuva Expr. Desistir de uma ideia,
+abandonar uma expectativa. _ Se você acha que vou ajudar,
+pode tirar o cavalo da chuva.
+**************************************************
+[96, 99]
+*Vá pentear macacos Expr. Expressão para mandar alguém
+embora, demonstrar irritação. _ Não quero ouvir mais isso,
+vá pentear macacos!
+**************************************************

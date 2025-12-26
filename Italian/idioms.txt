@@ -1,0 +1,123 @@
+[0, 3]
+*Acqua in bocca Espr. Mantenere un segreto, non dire
+niente a nessuno. _ Ti dico una cosa ma acqua in bocca,
+non dirlo a nessuno!
+**************************************************
+[4, 7]
+*Avere le mani in pasta Espr. Essere coinvolto in qualcosa,
+avere influenza in una situazione. _ Lui ha le mani in pasta
+in tutti gli affari della città.
+**************************************************
+[8, 11]
+*Cadere dalle nuvole Espr. Essere molto sorpreso, non
+aspettarsi qualcosa. _ Quando ha saputo la notizia
+è caduto dalle nuvole.
+**************************************************
+[12, 15]
+*Chi dorme non piglia pesci Prov. Chi non si dà da fare
+non ottiene risultati. _ Svegliati presto, chi dorme
+non piglia pesci.
+**************************************************
+[16, 19]
+*Conosco i miei polli Espr. Conosco bene le persone
+di cui parlo, so come si comportano. _ So che mentirà,
+conosco i miei polli.
+**************************************************
+[20, 23]
+*Costare un occhio della testa Espr. Essere molto costoso.
+_ Quella macchina costa un occhio della testa.
+**************************************************
+[24, 27]
+*Essere al verde Espr. Non avere soldi, essere senza
+denaro. _ Non posso uscire stasera, sono al verde.
+**************************************************
+[28, 31]
+*Fare il diavolo a quattro Espr. Fare molto rumore,
+protestare con forza, creare confusione. _ Quando ha
+saputo del ritardo ha fatto il diavolo a quattro.
+**************************************************
+[32, 35]
+*In bocca al lupo Espr. Augurio di buona fortuna.
+_ Domani hai l'esame? In bocca al lupo!
+_ Crepi il lupo!
+**************************************************
+[36, 39]
+*L'abito non fa il monaco Prov. Non si giudica una
+persona dall'apparenza. _ Sembra povero ma è ricchissimo.
+L'abito non fa il monaco.
+**************************************************
+[40, 43]
+*Meglio tardi che mai Prov. È preferibile fare qualcosa
+in ritardo che non farla affatto. _ Hai finito il lavoro
+con tre giorni di ritardo, ma meglio tardi che mai.
+**************************************************
+[44, 47]
+*Mettere il carro davanti ai buoi Espr. Fare le cose
+nell'ordine sbagliato, anticipare i tempi. _ Prima impara
+le basi, non mettere il carro davanti ai buoi.
+**************************************************
+[48, 51]
+*Non avere peli sulla lingua Espr. Dire quello che si
+pensa senza filtri, essere molto diretti. _ Lei non ha
+peli sulla lingua, dice sempre la verità.
+**************************************************
+[52, 55]
+*Non tutte le ciambelle riescono col buco Prov. Non
+tutto riesce sempre perfettamente. _ Il progetto è fallito,
+ma non tutte le ciambelle riescono col buco.
+**************************************************
+[56, 59]
+*Prendere due piccioni con una fava Espr. Raggiungere
+due obiettivi con una sola azione. _ Vado a Milano per
+lavoro e visito mia sorella, prendo due piccioni con una fava.
+**************************************************
+[60, 63]
+*Quando il gatto non c'è i topi ballano Prov. Quando
+manca l'autorità, gli altri fanno quello che vogliono.
+_ Il capo è in vacanza e nessuno lavora. Quando il gatto
+non c'è i topi ballano.
+**************************************************
+[64, 67]
+*Restare con un pugno di mosche Espr. Rimanere senza
+nulla, fallire, perdere tutto. _ Dopo l'investimento
+sbagliato è restato con un pugno di mosche.
+**************************************************
+[68, 71]
+*Saltare di palo in frasca Espr. Cambiare argomento
+continuamente, non essere coerenti. _ Non capisco cosa
+vuoi dire, salti di palo in frasca.
+**************************************************
+[72, 75]
+*Tra il dire e il fare c'è di mezzo il mare Prov.
+È facile parlare ma difficile agire. _ Dice che cambierà,
+ma tra il dire e il fare c'è di mezzo il mare.
+**************************************************
+[76, 79]
+*Una rondine non fa primavera Prov. Un singolo evento
+positivo non significa che tutto andrà bene. _ Ha vinto
+una volta, ma una rondine non fa primavera.
+**************************************************
+[80, 83]
+*Avere il dente avvelenato Espr. Essere arrabbiato con
+qualcuno, portare rancore. _ Ha il dente avvelenato
+con me da anni per quella discussione.
+**************************************************
+[84, 87]
+*Chiudere un occhio Espr. Fingere di non vedere, tollerare
+qualcosa. _ Il professore ha chiuso un occhio sul ritardo.
+**************************************************
+[88, 91]
+*Essere come il prezzemolo Espr. Essere ovunque, farsi
+vedere in ogni occasione. _ Lo incontro sempre, è come
+il prezzemolo.
+**************************************************
+[92, 95]
+*Mettere la pulce nell'orecchio Espr. Instillare un
+dubbio o un sospetto. _ Quello che ha detto mi ha messo
+la pulce nell'orecchio.
+**************************************************
+[96, 99]
+*Tagliare la testa al toro Espr. Risolvere un problema
+in modo definitivo, prendere una decisione drastica.
+_ Basta discutere, tagliamo la testa al toro.
+**************************************************

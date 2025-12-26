@@ -1,0 +1,119 @@
+[0, 3]
+*Acele işe şeytan karışır Atasöz. Aceleyle yapılan işler
+genellikle kötü sonuçlanır. _ Yavaş yap, düzgün yap.
+Acele işe şeytan karışır.
+**************************************************
+[4, 7]
+*Ağaç yaşken eğilir Atasöz. Eğitim ve disiplin küçük
+yaşta verilmelidir. _ Çocuğu şimdiden eğit,
+ağaç yaşken eğilir.
+**************************************************
+[8, 11]
+*Ak akçe kara gün içindir Atasöz. Zor zamanlar için
+para biriktirmek gerekir. _ Her ay biraz kenara koy,
+ak akçe kara gün içindir.
+**************************************************
+[12, 15]
+*Bal tutan parmağını yalar Atasöz. Bir işle uğraşan
+ondan fayda sağlar. _ O işte çalışan herkes kazanıyor,
+bal tutan parmağını yalar.
+**************************************************
+[16, 19]
+*Bir elin nesi var, iki elin sesi var Atasöz. İşbirliği
+yaparak daha çok şey başarılır. _ Birlikte çalışalım,
+bir elin nesi var, iki elin sesi var.
+**************************************************
+[20, 23]
+*Bugünün işini yarına bırakma Atasöz. Yapılması gereken
+işleri erteleme. _ Şimdi yap, bugünün işini yarına bırakma.
+**************************************************
+[24, 27]
+*Damlaya damlaya göl olur Atasöz. Küçük şeyler birikince
+büyük olur. _ Her gün biraz çalış, damlaya damlaya göl olur.
+**************************************************
+[28, 31]
+*Dost kara günde belli olur Atasöz. Gerçek dost zor
+zamanlarda yanında olur. _ Hastalandığımda sadece o geldi,
+dost kara günde belli olur.
+**************************************************
+[32, 35]
+*Elden gelen öğün olmaz, o da vaktinde bulunmaz Atasöz.
+Başkasına bağımlı olma, kendi işini kendin yap.
+_ Kimseyi bekleme, elden gelen öğün olmaz.
+**************************************************
+[36, 39]
+*Gülme komşuna gelir başına Atasöz. Başkalarının başına
+gelen kötü şeyler senin de başına gelebilir.
+_ Onunla dalga geçme, gülme komşuna gelir başına.
+**************************************************
+[40, 43]
+*Her işin başı sağlık Atasöz. Sağlık her şeyden önemlidir.
+_ Sağlığına dikkat et, her işin başı sağlık.
+**************************************************
+[44, 47]
+*İşleyen demir pas tutmaz Atasöz. Sürekli çalışan veya
+hareket eden kişi dinç kalır. _ Boş durma, işleyen demir
+pas tutmaz.
+**************************************************
+[48, 51]
+*Keyfim yerinde Deyim. Kendimi iyi hissediyorum, mutluyum.
+_ Bugün keyfim yerinde, her şey yolunda.
+**************************************************
+[52, 55]
+*Komşu komşunun külüne muhtaçtır Atasöz. İnsanlar
+birbirlerine ihtiyaç duyarlar. _ Yardım iste, komşu
+komşunun külüne muhtaçtır.
+**************************************************
+[56, 59]
+*Misafir umduğunu değil bulduğunu yer Atasöz. Beklentiler
+her zaman karşılanmaz, eldekiyle yetinmek gerekir.
+_ Ne varsa onu yiyelim, misafir umduğunu değil bulduğunu yer.
+**************************************************
+[60, 63]
+*Nerede hareket orada bereket Atasöz. Çalışan ve aktif
+olan kişi kazanır. _ Oturma, bir şeyler yap.
+Nerede hareket orada bereket.
+**************************************************
+[64, 67]
+*Sabır acıdır meyvesi tatlıdır Atasöz. Sabırlı olmak
+zordur ama sonucu güzeldir. _ Bekle, sabır acıdır
+meyvesi tatlıdır.
+**************************************************
+[68, 71]
+*Sakla samanı gelir zamanı Atasöz. Her şeyin bir gün
+işe yarayabileceğini düşün. _ Atma onu, sakla samanı
+gelir zamanı.
+**************************************************
+[72, 75]
+*Söz gümüşse sükut altındır Atasöz. Bazen konuşmamak
+konuşmaktan iyidir. _ Bir şey deme, söz gümüşse
+sükut altındır.
+**************************************************
+[76, 79]
+*Su uyur düşman uyumaz Atasöz. Dikkatli ol, tehlike
+her zaman vardır. _ Rehavete kapılma, su uyur düşman uyumaz.
+**************************************************
+[80, 83]
+*Üzüm üzüme baka baka kararır Atasöz. İnsanlar çevresinden
+etkilenir. _ İyi insanlarla arkadaş ol, üzüm üzüme baka
+baka kararır.
+**************************************************
+[84, 87]
+*Yalnız taş duvar olmaz Atasöz. Tek başına büyük iş
+yapılamaz, birlik gerekir. _ Yardım al, yalnız taş
+duvar olmaz.
+**************************************************
+[88, 91]
+*Keyif Kavram. Türk kültürüne özgü, rahat ve mutlu bir
+anın tadını çıkarma hali. _ Çayımı yudumlarken keyif
+yapıyorum.
+**************************************************
+[92, 95]
+*Gönül Kavram. Kalp ve ruh anlamına gelen, duygusal
+derinliği ifade eden Türk kavramı. _ Gönlüm seni istiyor.
+**************************************************
+[96, 99]
+*Yarın Allah kerimdir Deyim. Yarın ne olacağını Allah
+bilir, umutlu olmak gerekir. _ Bugün olmadı ama yarın
+Allah kerimdir.
+**************************************************

@@ -1,0 +1,123 @@
+[0, 3]
+*Asiyefunzwa na mamaye hufunzwa na ulimwengu Methali.
+Yule ambaye hajafundishwa na mama yake atafundishwa
+na maisha kwa njia ngumu. _ Hakusikia ushauri wa wazazi,
+sasa anajifunza kwa shida. Asiyefunzwa na mamaye hufunzwa na ulimwengu.
+**************************************************
+[4, 7]
+*Bahari haijari kwa maji Methali. Mtu tajiri au mwenye
+nguvu hahitaji msaada zaidi. _ Yeye ana mengi tayari,
+bahari haijari kwa maji.
+**************************************************
+[8, 11]
+*Dawa ya moto ni moto Methali. Tatizo kubwa linahitaji
+suluhisho kali. _ Lazima tuchukue hatua kali,
+dawa ya moto ni moto.
+**************************************************
+[12, 15]
+*Fimbo ya mbali haiuwi nyoka Methali. Huwezi kutatua
+tatizo ukiwa mbali nalo. _ Lazima uwepo mwenyewe,
+fimbo ya mbali haiuwi nyoka.
+**************************************************
+[16, 19]
+*Hakuna masika yasiyokuwa na mbu Methali. Hakuna jambo
+zuri lisilo na ubaya wake. _ Kazi nzuri lakini ina matatizo.
+Hakuna masika yasiyokuwa na mbu.
+**************************************************
+[20, 23]
+*Haraka haraka haina baraka Methali. Kufanya mambo
+kwa haraka huleta makosa. _ Tulia, fanya polepole.
+Haraka haraka haina baraka.
+**************************************************
+[24, 27]
+*Heri nusu shari kuliko shari kamili Methali. Ni bora
+kupata kidogo kuliko kupoteza yote. _ Tumepata nusu
+ya pesa zetu, heri nusu shari kuliko shari kamili.
+**************************************************
+[28, 31]
+*Jiwe moja haliinjiki chungu Methali. Mtu mmoja hawezi
+kufanya kazi kubwa peke yake. _ Tunahitaji watu wengi,
+jiwe moja haliinjiki chungu.
+**************************************************
+[32, 35]
+*Kikulacho ki nguoni mwako Methali. Tatizo lako linaweza
+kuwa karibu nawe sana. _ Adui yake ni ndugu yake mwenyewe.
+Kikulacho ki nguoni mwako.
+**************************************************
+[36, 39]
+*Kidole kimoja hakivunji chawa Methali. Umoja ni nguvu,
+mtu mmoja hawezi kufanya kazi kubwa. _ Tushirikiane,
+kidole kimoja hakivunji chawa.
+**************************************************
+[40, 43]
+*Lisemwalo lipo, na kama halipo li njiani Methali.
+Kila uvumi una ukweli ndani yake. _ Watu wanasema mengi
+kuhusu yeye, lisemwalo lipo.
+**************************************************
+[44, 47]
+*Maji yakimwagika hayazoleki Methali. Kilichokwisha
+hakiwezi kurudishwa. _ Nimekosea na siwezi kubadilisha.
+Maji yakimwagika hayazoleki.
+**************************************************
+[48, 51]
+*Mchelea mwana kulia hulia yeye Methali. Mzazi anayeogopa
+kumkemea mtoto ataona matokeo mabaya baadaye. _ Mlee mtoto
+vizuri sasa. Mchelea mwana kulia hulia yeye.
+**************************************************
+[52, 55]
+*Mgaagaa na upwa hali wali mkavu Methali. Yule anayejitahidi
+hupata, yule asiyejitahidi hukosa. _ Jitahidi kufanya kazi,
+mgaagaa na upwa hali wali mkavu.
+**************************************************
+[56, 59]
+*Mkono mmoja hauchinji ng'ombe Methali. Kazi kubwa inahitaji
+ushirikiano. _ Tufanye pamoja, mkono mmoja hauchinji ng'ombe.
+**************************************************
+[60, 63]
+*Mnyonge mnyongeni lakini haki yake mpeni Methali.
+Hata maskini anastahili heshima na haki yake. _ Usimdhulumu
+kwa sababu ni maskini. Mnyonge mnyongeni lakini haki yake mpeni.
+**************************************************
+[64, 67]
+*Mtaka cha mvunguni sharti ainame Methali. Ukitaka kitu,
+lazima ujitahidi kukipata. _ Lazima ufanye kazi kwa bidii,
+mtaka cha mvunguni sharti ainame.
+**************************************************
+[68, 71]
+*Mwenye pesa hazungumzwi Methali. Mtu tajiri anaheshimiwa
+na watu wengi. _ Tangu apate pesa, kila mtu anampenda.
+Mwenye pesa hazungumzwi.
+**************************************************
+[72, 75]
+*Penye nia pana njia Methali. Ukiwa na nia ya kweli,
+utapata njia ya kufanikiwa. _ Usikate tamaa,
+penye nia pana njia.
+**************************************************
+[76, 79]
+*Pole pole ndio mwendo Methali. Kufanya mambo polepole
+na kwa uangalifu ni bora. _ Usikimbilie, pole pole ndio mwendo.
+**************************************************
+[80, 83]
+*Samaki mkunje angali mbichi Methali. Mfundishe mtoto
+mapema kabla hajazeeka. _ Mlee vizuri sasa akiwa mdogo,
+samaki mkunje angali mbichi.
+**************************************************
+[84, 87]
+*Subira huvuta heri Methali. Uvumilivu huleta matokeo
+mazuri. _ Ngoja kwa uvumilivu, subira huvuta heri.
+**************************************************
+[88, 91]
+*Ubuntu Dhana. Falsafa ya Kiafrika inayosema "Mimi ni
+kwa sababu sisi tu." Ubinadamu kupitia uhusiano na wengine.
+_ Tunashirikiana kwa sababu tunaamini ubuntu.
+**************************************************
+[92, 95]
+*Umoja ni nguvu, utengano ni udhaifu Methali. Pamoja
+tunafanikiwa, tukigawanyika tunashindwa. _ Tuungane,
+umoja ni nguvu, utengano ni udhaifu.
+**************************************************
+[96, 99]
+*Usipoziba ufa utajenga ukuta Methali. Tatizo dogo
+likipuuzwa litakuwa kubwa. _ Litatue sasa kabla halijakua,
+usipoziba ufa utajenga ukuta.
+**************************************************

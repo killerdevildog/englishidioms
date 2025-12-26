@@ -1,0 +1,129 @@
+[0, 3]
+*À bon chat, bon rat Prov. À adversaire rusé, adversaire
+tout aussi rusé. Chacun trouve son égal. _ Il pensait
+me tromper, mais je l'ai vu venir. À bon chat, bon rat.
+**************************************************
+[4, 7]
+*À cheval donné on ne regarde pas les dents Prov. On ne
+critique pas un cadeau, même s'il est imparfait.
+_ La voiture a quelques défauts, mais c'était gratuit.
+À cheval donné on ne regarde pas les dents.
+**************************************************
+[8, 11]
+*Appeler un chat un chat Fig. Dire les choses franchement,
+sans détour, nommer les choses par leur nom.
+_ Je vais appeler un chat un chat : tu as fait une erreur.
+**************************************************
+[12, 15]
+*Avoir le cafard Fig. Être triste, déprimé, mélancolique.
+_ Depuis son départ, j'ai le cafard. Rien ne me fait plaisir.
+**************************************************
+[16, 19]
+*Avoir un poil dans la main Fig. Être très paresseux,
+ne pas aimer travailler. _ Il ne fait jamais rien,
+il a vraiment un poil dans la main.
+**************************************************
+[20, 23]
+*C'est en forgeant qu'on devient forgeron Prov. C'est
+par la pratique et l'exercice qu'on acquiert la maîtrise.
+_ Continue à t'entraîner. C'est en forgeant qu'on devient forgeron.
+**************************************************
+[24, 27]
+*C'est la goutte d'eau qui fait déborder le vase Fig.
+C'est le dernier événement qui provoque une réaction
+après une accumulation de problèmes. _ J'ai supporté
+beaucoup, mais ça, c'est la goutte d'eau qui fait déborder le vase.
+**************************************************
+[28, 31]
+*Chacun voit midi à sa porte Prov. Chacun juge les choses
+selon son propre point de vue ou ses propres intérêts.
+_ Il pense à lui d'abord. Chacun voit midi à sa porte.
+**************************************************
+[32, 35]
+*Couper les cheveux en quatre Fig. Être excessivement
+méticuleux, compliquer les choses inutilement.
+_ Ne coupe pas les cheveux en quatre, la solution est simple.
+**************************************************
+[36, 39]
+*Donner sa langue au chat Fig. Renoncer à deviner,
+abandonner une recherche. _ Je ne trouve pas la réponse,
+je donne ma langue au chat.
+**************************************************
+[40, 43]
+*En faire tout un fromage Fig. Exagérer l'importance
+de quelque chose, faire une montagne d'un rien.
+_ Ce n'est qu'une petite erreur, n'en fais pas tout un fromage.
+**************************************************
+[44, 47]
+*Être dans la lune Fig. Être distrait, rêveur, ne pas
+faire attention à ce qui se passe autour de soi.
+_ Tu n'as pas entendu ce que j'ai dit ? Tu es dans la lune !
+**************************************************
+[48, 51]
+*Faire d'une pierre deux coups Fig. Atteindre deux
+objectifs par une seule action. _ En allant au marché,
+j'ai posté la lettre. J'ai fait d'une pierre deux coups.
+**************************************************
+[52, 55]
+*Il ne faut pas mettre la charrue avant les bœufs Prov.
+Il ne faut pas commencer par la fin, il faut faire les
+choses dans l'ordre. _ Apprends d'abord les bases.
+Il ne faut pas mettre la charrue avant les bœufs.
+**************************************************
+[56, 59]
+*Il n'y a pas de fumée sans feu Prov. Toute rumeur
+a un fond de vérité. _ Les gens parlent de problèmes
+dans l'entreprise. Il n'y a pas de fumée sans feu.
+**************************************************
+[60, 63]
+*L'habit ne fait pas le moine Prov. On ne peut pas juger
+quelqu'un sur son apparence. _ Il a l'air négligé mais
+c'est un génie. L'habit ne fait pas le moine.
+**************************************************
+[64, 67]
+*Les murs ont des oreilles Prov. Il faut faire attention
+à ce qu'on dit car on peut être écouté. _ Parle moins
+fort, les murs ont des oreilles.
+**************************************************
+[68, 71]
+*Mettre son grain de sel Fig. Intervenir dans une
+conversation sans y être invité, donner son avis.
+_ Il met toujours son grain de sel dans les discussions.
+**************************************************
+[72, 75]
+*Mieux vaut tard que jamais Prov. Il est préférable
+de faire quelque chose en retard que de ne pas le faire
+du tout. _ Tu as fini par appeler. Mieux vaut tard que jamais.
+**************************************************
+[76, 79]
+*Ne pas avoir la langue dans sa poche Fig. Être bavard,
+avoir la répartie facile, ne pas hésiter à parler.
+_ Elle répond toujours du tac au tac, elle n'a pas
+la langue dans sa poche.
+**************************************************
+[80, 83]
+*Poser un lapin à quelqu'un Fig. Ne pas venir à un
+rendez-vous sans prévenir. _ Il devait me retrouver
+à midi mais il m'a posé un lapin.
+**************************************************
+[84, 87]
+*Quand on parle du loup, on en voit la queue Prov.
+Se dit quand quelqu'un arrive au moment où l'on parle
+de lui. _ Tiens, justement on parlait de toi ! Quand
+on parle du loup, on en voit la queue.
+**************************************************
+[88, 91]
+*Qui vivra verra Prov. L'avenir nous dira ce qui va
+se passer, il faut attendre pour savoir. _ Je ne sais
+pas si ça va marcher. Qui vivra verra.
+**************************************************
+[92, 95]
+*Tel père, tel fils Prov. Les enfants ressemblent
+à leurs parents. _ Il est têtu comme son père.
+Tel père, tel fils.
+**************************************************
+[96, 99]
+*Vouloir le beurre et l'argent du beurre Fig. Vouloir
+tout avoir sans rien sacrifier. _ Tu ne peux pas tout
+avoir. Tu veux le beurre et l'argent du beurre.
+**************************************************

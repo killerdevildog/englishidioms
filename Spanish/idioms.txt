@@ -1,0 +1,135 @@
+[0, 3]
+*A buen entendedor, pocas palabras bastan Refr. No es
+necesario explicar demasiado cuando alguien es inteligente
+y comprende rápidamente. _ Le dije que tuviera cuidado
+y entendió perfectamente. A buen entendedor, pocas palabras bastan.
+**************************************************
+[4, 7]
+*A caballo regalado no le mires el diente Refr. Cuando
+te dan algo gratis, no debes criticarlo ni buscarle defectos.
+_ El carro tiene algunos problemas, pero fue un regalo.
+A caballo regalado no le mires el diente.
+**************************************************
+[8, 11]
+*Agua que no has de beber, déjala correr Refr. No te
+metas en asuntos que no te conciernen o que no puedes
+cambiar. _ Ese problema es entre ellos, no te involucres.
+Agua que no has de beber, déjala correr.
+**************************************************
+[12, 15]
+*Al mal tiempo, buena cara Refr. Hay que mantener una
+actitud positiva ante las dificultades y adversidades.
+_ Perdimos el partido pero seguimos sonriendo.
+Al mal tiempo, buena cara.
+**************************************************
+[16, 19]
+*Cada loco con su tema Refr. Cada persona tiene sus propias
+obsesiones o intereses particulares. _ Mi tío solo habla
+de política todo el día. Bueno, cada loco con su tema.
+**************************************************
+[20, 23]
+*Camarón que se duerme se lo lleva la corriente Refr.
+El que no está atento a las oportunidades las pierde.
+_ No dejé pasar la oferta de trabajo porque camarón que
+se duerme se lo lleva la corriente.
+**************************************************
+[24, 27]
+*Cría cuervos y te sacarán los ojos Refr. Si ayudas a
+personas malagradecidas, eventualmente te harán daño.
+_ Le di trabajo y ahora habla mal de mí. Cría cuervos
+y te sacarán los ojos.
+**************************************************
+[28, 31]
+*Dar en el clavo Fig. Acertar exactamente en algo, encontrar
+la solución correcta. _ Con tu análisis diste en el clavo,
+ese era exactamente el problema.
+**************************************************
+[32, 35]
+*De tal palo, tal astilla Refr. Los hijos heredan las
+características de sus padres. _ El niño es igual de
+terco que su padre. De tal palo, tal astilla.
+**************************************************
+[36, 39]
+*El que mucho abarca, poco aprieta Refr. Quien intenta
+hacer demasiadas cosas a la vez no hace ninguna bien.
+_ Tienes cinco proyectos y ninguno avanza. El que mucho
+abarca, poco aprieta.
+**************************************************
+[40, 43]
+*En boca cerrada no entran moscas Refr. Es mejor guardar
+silencio para evitar problemas. _ No comentes nada sobre
+ese tema, en boca cerrada no entran moscas.
+**************************************************
+[44, 47]
+*Estar como pez en el agua Fig. Sentirse muy cómodo
+y a gusto en una situación. _ En las fiestas está como
+pez en el agua, le encanta socializar.
+**************************************************
+[48, 51]
+*Hacer de tripas corazón Fig. Hacer un esfuerzo para
+superar el miedo o la repugnancia y hacer algo difícil.
+_ No quería hablar en público pero hice de tripas corazón
+y di el discurso.
+**************************************************
+[52, 55]
+*Ir al grano Fig. Hablar directamente del tema principal
+sin rodeos. _ Dejemos las formalidades y vayamos al grano,
+¿cuánto cuesta?
+**************************************************
+[56, 59]
+*La gota que colmó el vaso Fig. El último suceso que
+hace explotar una situación tensa acumulada. _ Ya había
+tenido problemas con él, pero ese insulto fue la gota
+que colmó el vaso.
+**************************************************
+[60, 63]
+*Llueve sobre mojado Fig. Los problemas se acumulan,
+una desgracia viene tras otra. _ Primero perdí el empleo
+y ahora me enfermé. Llueve sobre mojado.
+**************************************************
+[64, 67]
+*Más vale tarde que nunca Refr. Es preferible hacer algo
+con retraso que no hacerlo nunca. _ Llegaste dos horas
+tarde a la cena, pero más vale tarde que nunca.
+**************************************************
+[68, 71]
+*Meterse en camisa de once varas Fig. Involucrarse en
+asuntos complicados que no le corresponden a uno.
+_ No opines sobre su matrimonio, no te metas en camisa
+de once varas.
+**************************************************
+[72, 75]
+*No hay mal que por bien no venga Refr. Las situaciones
+negativas pueden traer consecuencias positivas.
+_ Perdí ese trabajo pero encontré uno mejor. No hay mal
+que por bien no venga.
+**************************************************
+[76, 79]
+*Ojos que no ven, corazón que no siente Refr. Lo que
+uno desconoce no le causa sufrimiento. _ Mejor no le
+cuentes lo que pasó, ojos que no ven, corazón que no siente.
+**************************************************
+[80, 83]
+*Pagar los platos rotos Fig. Sufrir las consecuencias
+de algo que hicieron otros. _ Yo no causé el problema
+pero terminé pagando los platos rotos.
+**************************************************
+[84, 87]
+*Quedarse en blanco Fig. Olvidar repentinamente lo que
+se iba a decir o hacer. _ Durante el examen me quedé
+en blanco y no pude recordar nada.
+**************************************************
+[88, 91]
+*Ser pan comido Fig. Ser algo muy fácil de hacer.
+_ Este ejercicio es pan comido, lo termino en cinco minutos.
+**************************************************
+[92, 95]
+*Tirar la casa por la ventana Fig. Gastar mucho dinero
+en una celebración o evento. _ Para su boda tiraron la
+casa por la ventana, fue una fiesta increíble.
+**************************************************
+[96, 99]
+*Tomar el pelo Fig. Burlarse de alguien o engañarlo
+en broma. _ ¿De verdad ganaste la lotería o me estás
+tomando el pelo?
+**************************************************
